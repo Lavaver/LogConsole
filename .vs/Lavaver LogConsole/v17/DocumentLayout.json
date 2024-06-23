@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Lavaver LogConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E04144-6882-437F-A4AD-D82AA8988781}|Lavaver LogConsole.csproj|d:\\repos\\lavaver logconsole\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{96E04144-6882-437F-A4AD-D82AA8988781}|Lavaver LogConsole.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E04144-6882-437F-A4AD-D82AA8988781}|Lavaver LogConsole.csproj|d:\\repos\\lavaver logconsole\\readme_zh-cn.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{96E04144-6882-437F-A4AD-D82AA8988781}|Lavaver LogConsole.csproj|solutionrelative:readme_zh-cn.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E04144-6882-437F-A4AD-D82AA8988781}|Lavaver LogConsole.csproj|d:\\repos\\lavaver logconsole\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E04144-6882-437F-A4AD-D82AA8988781}|Lavaver LogConsole.csproj|solutionrelative:mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E04144-6882-437F-A4AD-D82AA8988781}|Lavaver LogConsole.csproj|d:\\repos\\lavaver logconsole\\built-in log levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E04144-6882-437F-A4AD-D82AA8988781}|Lavaver LogConsole.csproj|solutionrelative:built-in log levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README_zh-CN.md",
+              "DocumentMoniker": "d:\\repos\\Lavaver LogConsole\\README_zh-CN.md",
+              "RelativeDocumentMoniker": "README_zh-CN.md",
+              "ToolTip": "d:\\repos\\Lavaver LogConsole\\README_zh-CN.md",
+              "RelativeToolTip": "README_zh-CN.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-23T19:39:29.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "d:\\repos\\Lavaver LogConsole\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "d:\\repos\\Lavaver LogConsole\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-23T19:10:10.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Built-in log levels.cs",
+              "DocumentMoniker": "d:\\repos\\Lavaver LogConsole\\Built-in log levels.cs",
+              "RelativeDocumentMoniker": "Built-in log levels.cs",
+              "ToolTip": "d:\\repos\\Lavaver LogConsole\\Built-in log levels.cs",
+              "RelativeToolTip": "Built-in log levels.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:48:32.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "d:\\repos\\Lavaver LogConsole\\MainClass.cs",
+              "RelativeDocumentMoniker": "MainClass.cs",
+              "ToolTip": "d:\\repos\\Lavaver LogConsole\\MainClass.cs",
+              "RelativeToolTip": "MainClass.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCoAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:30:33.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

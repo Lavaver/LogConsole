@@ -1,0 +1,11 @@
+d:\repos\Lavaver LogConsole\bin\Release\net8.0\win-arm64\Lavaver LogConsole.deps.json
+d:\repos\Lavaver LogConsole\bin\Release\net8.0\win-arm64\Lavaver LogConsole.dll
+d:\repos\Lavaver LogConsole\bin\Release\net8.0\win-arm64\Lavaver LogConsole.pdb
+d:\repos\Lavaver LogConsole\obj\Release\net8.0\win-arm64\Lavaver LogConsole.GeneratedMSBuildEditorConfig.editorconfig
+d:\repos\Lavaver LogConsole\obj\Release\net8.0\win-arm64\Lavaver LogConsole.AssemblyInfoInputs.cache
+d:\repos\Lavaver LogConsole\obj\Release\net8.0\win-arm64\Lavaver LogConsole.AssemblyInfo.cs
+d:\repos\Lavaver LogConsole\obj\Release\net8.0\win-arm64\Lavaver LogConsole.csproj.CoreCompileInputs.cache
+d:\repos\Lavaver LogConsole\obj\Release\net8.0\win-arm64\Lavaver LogConsole.dll
+d:\repos\Lavaver LogConsole\obj\Release\net8.0\win-arm64\refint\Lavaver LogConsole.dll
+d:\repos\Lavaver LogConsole\obj\Release\net8.0\win-arm64\Lavaver LogConsole.pdb
+d:\repos\Lavaver LogConsole\obj\Release\net8.0\win-arm64\ref\Lavaver LogConsole.dll

@@ -1,0 +1,3 @@
+d:\repos\Lavaver LogConsole\bin\Release\net8.0\publish\linux-x64\Lavaver LogConsole.dll
+d:\repos\Lavaver LogConsole\bin\Release\net8.0\publish\linux-x64\Lavaver LogConsole.deps.json
+d:\repos\Lavaver LogConsole\bin\Release\net8.0\publish\linux-x64\Lavaver LogConsole.pdb
